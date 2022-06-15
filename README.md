@@ -3,8 +3,6 @@ Responsive Popup built with Bootstrap 5. Examples include modal popup, popup box
 
 Check out [Bootstrap Popup Documentation](https://mdbootstrap.com/docs/standard/extended/popup/) for detailed instructions & even more examples.
 
-![Bootstrap Dark Mode](https://mdbootstrap.com/img/Marketing/github/dark-mode/basic.jpeg)
-
 
 ## Modal popups
 
