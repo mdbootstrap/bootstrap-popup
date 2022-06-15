@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-popup",
+  "version": "1.0.1",
+  "description": "Responsive Popup built with Bootstrap 5. Examples include modal popup, popup box, notification message popup, alert popup, lightbox popup & popup form.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-popup.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "template",
+    "popup",
+    "bootstrap-template",
+    "notification-popups",
+    "popup-modal",
+    "bootstrap5",
+    "popup-alert"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-popup/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/popup/"
+}
